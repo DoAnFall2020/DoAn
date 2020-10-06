@@ -1,0 +1,7 @@
+- Đăng nhập
+- Lập tài khoản phân quyền cho nhân viên
+- tạo tài khoản khách hàng
+- tra cứu các giao dịch của khách hàng
+- hiển thị chi tiết giao dịch
+- khách hàng đăng ký chữ ký viết tay
+- quét chữ ký viết tay
