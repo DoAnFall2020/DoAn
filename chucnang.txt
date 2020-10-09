@@ -6,4 +6,3 @@
 - khách hàng đăng ký chữ ký viết tay
 - quét chữ ký viết tay
 - code
-- test
